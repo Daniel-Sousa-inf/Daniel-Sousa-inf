@@ -12,7 +12,7 @@
 <p align="center">
   <a href="#meu-foco">Meu foco</a> &nbsp;·&nbsp;
   <a href="#soluções-na-prática">Soluções</a> &nbsp;·&nbsp;
-  <a href="#tecnologias">Tecnologias</a>
+  <a href="#ferramentas-e-tecnologias">Tecnologias</a>
 </p>
 
 ## Meu foco
@@ -49,7 +49,7 @@
 | **Painel de ferramentas** | Acesso central aos recursos, busca, favoritos e consulta dos serviços locais. |
 | **Automações de apoio** | Rotinas locais para simplificar tarefas e acompanhar o funcionamento do computador. |
 
-## Tecnologias
+## Ferramentas e tecnologias
 
 <p>
   <kbd>JavaScript</kbd> &nbsp; <kbd>PowerShell</kbd> &nbsp; <kbd>HTML</kbd> &nbsp; <kbd>CSS</kbd>
